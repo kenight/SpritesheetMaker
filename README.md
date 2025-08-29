@@ -1,0 +1,1 @@
+一个基于 Python 和 NiceGUI 的图形化工具，用于将多张图片合并成一张雪碧图（Spritesheet）。
